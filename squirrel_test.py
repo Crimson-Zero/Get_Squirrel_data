@@ -11,7 +11,7 @@ gray_data = []
 cinnamon_data = []
 black_data = []
 
-get_file_path = "C:/Users/wajee/.spyder-py3/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv"
+get_file_path = "path"
 
 data = pd.read_csv(get_file_path)
 
